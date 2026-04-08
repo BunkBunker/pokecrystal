@@ -170,4 +170,12 @@ KantoWaterWildMons:
 	db 35, TENTACRUEL
 	end_water_wildmons
 
+	def_water_wildmons ROUTE_23_RESTORED
+	db 6 percent ; encounter rate
+	db 34, REMORAID
+	db 35, OMANYTE
+	db 35, KABUTO
+	end_water_wildmons
+
+
 	db -1 ; end

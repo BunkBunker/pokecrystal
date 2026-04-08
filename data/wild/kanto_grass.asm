@@ -842,4 +842,33 @@ KantoGrassWildMons:
 	db 42, GOLBAT
 	end_grass_wildmons
 
+
+	def_grass_wildmons ROUTE_23_RESTORED
+	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
+	; morn
+	db 32, MAREEP
+	db 34, SLUGMA
+	db 34, GIRAFARIG
+	db 33, VULPIX
+	db 35, AMPHAROS
+	db 32, FLAAFFY
+	db 33, FLAAFFY
+	; day
+	db 32, MAREEP
+	db 34, SLUGMA
+	db 34, GIRAFARIG
+	db 33, MANKEY
+	db 35, AMPHAROS
+	db 32, FLAAFFY
+	db 33, FLAAFFY
+	; nite
+	db 32, MAREEP
+	db 34, SLUGMA
+	db 34, GIRAFARIG
+	db 33, MURKROW
+	db 35, HOUNDOUR
+	db 32, FLAAFFY
+	db 33, FLAAFFY
+	end_grass_wildmons
+
 	db -1 ; end

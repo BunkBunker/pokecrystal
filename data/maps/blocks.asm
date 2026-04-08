@@ -965,6 +965,9 @@ VictoryRoad_Blocks:
 Route23_Blocks:
 	INCBIN "maps/Route23.blk"
 
+Route23Restored_Blocks:
+	INCBIN "maps/Route23Restored.blk"
+
 LancesRoom_Blocks:
 	INCBIN "maps/LancesRoom.blk"
 

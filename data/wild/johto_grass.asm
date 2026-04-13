@@ -1710,4 +1710,32 @@ JohtoGrassWildMons:
 	db 44, GOLBAT
 	end_grass_wildmons
 
+def_grass_wildmons UNION_CAVE_CHERRY
+	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
+	; morn
+	db 10, GEODUDE
+	db 7,  ZUBAT
+	db 8,  ZUBAT
+	db 12, ONIX
+	db 8,  SANDSHREW
+	db 9,  SANDSHREW
+	db 10, SANDSHREW
+	; day
+	db 10, GEODUDE
+	db 7,  ZUBAT
+	db 8,  ZUBAT
+	db 12, ONIX
+	db 8,  SANDSHREW
+	db 9,  SANDSHREW
+	db 10, SANDSHREW
+	; nite
+	db 10, GEODUDE
+	db 7,  ZUBAT
+	db 8,  ZUBAT
+	db 12, ONIX
+	db 8,  SANDSHREW
+	db 9,  SANDSHREW
+	db 10, SANDSHREW
+	end_grass_wildmons
+
 	db -1 ; end

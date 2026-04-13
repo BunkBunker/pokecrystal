@@ -1048,5 +1048,8 @@ BetaBlank_Blocks: ; unreferenced
 
 GoldenrodDeptStoreRoof_Blocks:
 	INCBIN "maps/GoldenrodDeptStoreRoof.blk"
+	
+UnionCaveCherry_Blocks:
+	INCBIN "maps/UnionCaveCherry.blk"
 
 ENDSECTION

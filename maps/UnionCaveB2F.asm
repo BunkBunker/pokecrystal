@@ -144,6 +144,7 @@ UnionCaveB2F_MapEvents:
 
 	def_warp_events
 	warp_event  5,  3, UNION_CAVE_B1F, 5
+	warp_event  17, 1, UNION_CAVE_CHERRY, 4
 
 	def_coord_events
 

@@ -9,12 +9,12 @@ UnionCaveCherry_MapEvents:
 	def_warp_events
 	warp_event  7, 41, CHERRYGROVE_CITY, 6
 	warp_event  5, 39, UNION_CAVE_CHERRY, 3 ;Edit Here
-	warp_event 41, 41, UNION_CAVE_CHERRY, 2 ;Edit Here
-	warp_event 21,  7, ROUTE_32, 5 ;Edit Here
+	warp_event 41, 31, UNION_CAVE_CHERRY, 2 ;Edit Here
+	warp_event 29, 21, UNION_CAVE_B2F, 2 ;Edit Here
 	warp_event  3,  3, UNION_CAVE_CHERRY, 6 ;Edit Here
 	warp_event 29,  5, UNION_CAVE_CHERRY, 5
-	warp_event 41, 31, UNION_CAVE_CHERRY, 8 ;Edit Here
-	warp_event 29, 21, UNION_CAVE_CHERRY, 7 ;Edit Here
+	warp_event 41, 41, UNION_CAVE_CHERRY, 8 ;Edit Here
+	warp_event 21,  7, UNION_CAVE_CHERRY, 7 ;Edit Here
 	warp_event 39, 29, UNION_CAVE_CHERRY, 10
 	warp_event 39, 19, UNION_CAVE_CHERRY, 9
 	warp_event 41, 21, UNION_CAVE_CHERRY, 12
